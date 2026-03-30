@@ -27,3 +27,6 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Added CONTRIBUTING.md stub
 - Updated .gitignore to exclude build artifacts
+
+## 2026-03-30
+- Cross-checked behaviour against spec
