@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Reviewed codebase, identified areas for improvement
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-30
+- Checked for memory leaks in long-running path
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
